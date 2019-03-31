@@ -24,7 +24,7 @@ Jelisaveta Rogosic, psychologist - jelisaveta.rogosic@gmail.com
 Aleksandra Mokric, student - aleks.mokric@gmail.com
 
 ## Installations
-Just run start.py on local python client, any latest version is fine. Requires
+Just run start.py on local python client, any latest version is fine.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
