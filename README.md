@@ -1,4 +1,5 @@
-# Project summary
+## Summary
+Our project attempts to discover correlation between various symptoms and diseases using AI.
 
 ## Defintion of the problem
 
@@ -15,6 +16,15 @@ Prevention is a key word here. Some of these conditions can develop very slowly,
 ## Our results and potential impact
 
 Results depend off a database that the program can make. This can help women that heave no knowledge of these medical conditions to see a doctor before the possibility of their condition getting worse if it is the case. That gives them chanse to be treated properly and prevent development. Some of these problems heave bad predictions for vitality and life itself. Result can be very bad. Preventing these conditions is very important. 
+
+## Team members
+Vladimir Vulicevic, freelance programer - elamon.vlad@gmail.com
+Marina Jakovljevic, enterpreneur - tminasy@gmail.com
+Jelisaveta Rogosic, psychologist - jelisaveta.rogosic@gmail.com
+Aleksandra Mokric, student - aleks.mokric@gmail.com
+
+## Installations
+Just run start.py on local python client, any latest version is fine. Requires
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
