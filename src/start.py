@@ -3,7 +3,6 @@ from __future__ import print_function
 import csv
 
 training_data = []
-
 with open('data.txt') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
